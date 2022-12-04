@@ -12,6 +12,4 @@ public class User {
     private String email;
     private String telephone;
     private String address;
-
-    private String address1;
 }
