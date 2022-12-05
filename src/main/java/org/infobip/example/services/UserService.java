@@ -8,7 +8,7 @@ public class UserService {
 
     public static void main(String[] args) {
         User example1 = User.builder()
-                            .address("Aleja lipa")
+                            .address("Evnera Sehovica")
                         .build();
         User example2 = User.builder()
                             .address("Aleja lipa")
