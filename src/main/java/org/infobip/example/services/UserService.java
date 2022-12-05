@@ -16,7 +16,7 @@ public class UserService {
                             .name("Ilvana")
                         .build();
         User example3 = User.builder()
-                            .password("ilvana")
+                            .password("ivana")
                             .username("ibrankovic")
                             .email("ilvana_example@hotmail.com")
                             .telephone("38761585254")
